@@ -44,16 +44,16 @@ section {
   flex-direction: column;
   justify-content: flex-end;
 }
-section:nth-child(1) {
+section.home {
   background-color: #D3FFE0;
 }
-section:nth-child(2) {
+section.about {
   background-color: #ffb13d;
 }
-section:nth-child(3) {
+section.articles {
   background-color: #FFCDBA;
 }
-section:nth-child(4) {
+section.contact {
   background-color: #ffaaec;
 }
 section .content {
