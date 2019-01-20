@@ -123,3 +123,10 @@ circle-text:defined {
   pointer-events: none;
   z-index: 1;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25%;
+    font-size: 150%;
+}
