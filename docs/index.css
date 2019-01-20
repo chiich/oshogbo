@@ -86,8 +86,9 @@ section .content.quote::after {
 section > svg {
   position: absolute;
   top: 45px;
-  right: -45px;
+  right: 0;
   opacity: 0.5;
+  max-width: 182px;
 }
 section > svg text {
   font-family: 'Dr Sugiyama', cursive;
