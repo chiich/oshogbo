@@ -38,7 +38,7 @@ body {
   background-color: #FF1919;
 }
 section {
-  height: 25vh;
+  height: 100vh;
   overflow: hidden;
   display: flex;
   flex-direction: column;
