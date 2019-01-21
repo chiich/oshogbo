@@ -62,7 +62,7 @@ section .content {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  padding: 22px;
+  padding: 44px 22px;
   position: relative;
 }
 section .content.quote::before, section .content.quote::after {
