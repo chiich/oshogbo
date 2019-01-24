@@ -55,14 +55,14 @@ document.addEventListener("DOMContentLoaded", function() {
    * Next step, you have to tell Barba to use the new Transition
    */
 
-  Barba.Pjax.getTransition = function() {
-    /**
-     * Here you can use your own logic!
-     * For example you can use different Transition based on the current page or link...
-     */
+//   Barba.Pjax.getTransition = function() {
+//     /**
+//      * Here you can use your own logic!
+//      * For example you can use different Transition based on the current page or link...
+//      */
 
-    return FadeTransition;
-  };
+//     return FadeTransition;
+//   };
   
-  Barba.Pjax.start();
+//   Barba.Pjax.start();
 });
